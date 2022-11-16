@@ -1,0 +1,9 @@
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.dll
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\bin\Debug\netcoreapp3.1\ValueAndReferanceType.pdb
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.dll
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndReferanceType\obj\Debug\netcoreapp3.1\ValueAndReferanceType.pdb

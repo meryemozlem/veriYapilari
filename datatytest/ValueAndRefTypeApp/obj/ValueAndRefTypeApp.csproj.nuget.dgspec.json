@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndRefTypeApp\\ValueAndRefTypeApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndReferanceType\\ValueAndReferanceType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndReferanceType\\ValueAndReferanceType.csproj",
+        "projectName": "ValueAndReferanceType",
+        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndReferanceType\\ValueAndReferanceType.csproj",
+        "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndReferanceType\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndRefTypeApp\\ValueAndRefTypeApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndRefTypeApp\\ValueAndRefTypeApp.csproj",
+        "projectName": "ValueAndRefTypeApp",
+        "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndRefTypeApp\\ValueAndRefTypeApp.csproj",
+        "packagesPath": "C:\\Users\\mozay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndRefTypeApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mozay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndReferanceType\\ValueAndReferanceType.csproj": {
+                "projectPath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\VeriYapilari\\datatytest\\ValueAndReferanceType\\ValueAndReferanceType.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

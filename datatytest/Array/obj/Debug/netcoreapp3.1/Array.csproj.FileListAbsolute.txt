@@ -1,0 +1,9 @@
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\Array\obj\Debug\netcoreapp3.1\Array.pdb

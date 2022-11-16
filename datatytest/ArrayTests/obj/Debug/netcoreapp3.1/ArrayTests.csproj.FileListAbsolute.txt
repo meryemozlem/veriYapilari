@@ -1,0 +1,4 @@
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayTests\obj\Debug\netcoreapp3.1\ArrayTests.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayTests\obj\Debug\netcoreapp3.1\ArrayTests.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayTests\obj\Debug\netcoreapp3.1\ArrayTests.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayTests\obj\Debug\netcoreapp3.1\ArrayTests.csproj.CoreCompileInputs.cache

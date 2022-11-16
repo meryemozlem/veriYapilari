@@ -1,0 +1,7 @@
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayApp\bin\Debug\ArrayApp.exe.config
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayApp\obj\Debug\ArrayApp.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ArrayApp\obj\Debug\ArrayApp.pdb

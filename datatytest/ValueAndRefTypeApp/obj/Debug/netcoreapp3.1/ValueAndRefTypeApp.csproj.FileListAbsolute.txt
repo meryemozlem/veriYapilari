@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndRefTypeApp.exe
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndRefTypeApp.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndRefTypeApp.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndRefTypeApp.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndRefTypeApp.dll
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndRefTypeApp.pdb
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndReferanceType.dll
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\bin\Debug\netcoreapp3.1\ValueAndReferanceType.pdb
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.csproj.CopyComplete
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.dll
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.pdb
+C:\Users\mozay\OneDrive\Masaüstü\VeriYapilari\datatytest\ValueAndRefTypeApp\obj\Debug\netcoreapp3.1\ValueAndRefTypeApp.genruntimeconfig.cache
